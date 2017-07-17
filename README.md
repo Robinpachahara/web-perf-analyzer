@@ -1,5 +1,7 @@
 # Web Performance Analyzer
 
+Web Performance Analyzer is a NodeJS server that analyzes the average response time of a domain. It also ships with a Java client.
+
 ## Stack
 
 - NodeJS Server
